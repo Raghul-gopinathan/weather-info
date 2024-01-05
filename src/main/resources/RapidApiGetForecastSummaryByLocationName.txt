@@ -1,0 +1,860 @@
+{
+    "location": {
+        "code": "DE0001020",
+        "name": "Berlin",
+        "timezone": "Europe/Berlin",
+        "coordinates": {
+            "latitude": 52.5244,
+            "longitude": 13.4105
+        }
+    },
+    "forecast": {
+        "items": [
+            {
+                "date": "2024-01-04",
+                "dateWithTimezone": "2024-01-03T23:00:00Z",
+                "freshSnow": 0.02,
+                "snowHeight": null,
+                "weather": {
+                    "state": 3,
+                    "text": "bedeckt",
+                    "icon": "n_3.svg"
+                },
+                "prec": {
+                    "sum": 0.81,
+                    "probability": 90,
+                    "sumAsRain": null,
+                    "class": 1
+                },
+                "sunHours": 0,
+                "rainHours": null,
+                "temperature": {
+                    "min": 0,
+                    "max": 8,
+                    "avg": null
+                },
+                "wind": {
+                    "unit": "km/h",
+                    "direction": "Westwind",
+                    "text": "W",
+                    "avg": null,
+                    "min": 6,
+                    "max": 25,
+                    "gusts": {
+                        "value": 58,
+                        "text": null
+                    },
+                    "significationWind": true
+                },
+                "windchill": {
+                    "min": -3,
+                    "max": 6,
+                    "avg": null
+                },
+                "snowLine": {
+                    "avg": null,
+                    "min": null,
+                    "max": null,
+                    "unit": "m"
+                },
+                "astronomy": {
+                    "dawn": "2024-01-04T07:35:43+01:00",
+                    "sunrise": "2024-01-04T08:16:41+01:00",
+                    "suntransit": "2024-01-04T12:11:10+01:00",
+                    "sunset": "2024-01-04T16:05:53+01:00",
+                    "dusk": "2024-01-04T16:46:52+01:00",
+                    "moonrise": "2024-01-04T00:16:29+01:00",
+                    "moontransit": "2024-01-04T06:06:06+01:00",
+                    "moonset": "2024-01-04T11:41:10+01:00",
+                    "moonphase": 7,
+                    "moonzodiac": 7
+                }
+            },
+            {
+                "date": "2024-01-05",
+                "dateWithTimezone": "2024-01-04T23:00:00Z",
+                "freshSnow": 2.4,
+                "snowHeight": null,
+                "weather": {
+                    "state": 71,
+                    "text": "leichter Schneefall",
+                    "icon": "d_71.svg"
+                },
+                "prec": {
+                    "sum": 2.55,
+                    "probability": 90,
+                    "sumAsRain": null,
+                    "class": 1
+                },
+                "sunHours": 0,
+                "rainHours": null,
+                "temperature": {
+                    "min": -1,
+                    "max": 0,
+                    "avg": null
+                },
+                "wind": {
+                    "unit": "km/h",
+                    "direction": "Ostwind",
+                    "text": "O",
+                    "avg": null,
+                    "min": 8,
+                    "max": 15,
+                    "gusts": {
+                        "value": 35,
+                        "text": null
+                    },
+                    "significationWind": false
+                },
+                "windchill": {
+                    "min": -6,
+                    "max": -4,
+                    "avg": null
+                },
+                "snowLine": {
+                    "avg": null,
+                    "min": null,
+                    "max": null,
+                    "unit": "m"
+                },
+                "astronomy": {
+                    "dawn": "2024-01-05T07:35:30+01:00",
+                    "sunrise": "2024-01-05T08:16:23+01:00",
+                    "suntransit": "2024-01-05T12:11:37+01:00",
+                    "sunset": "2024-01-05T16:07:06+01:00",
+                    "dusk": "2024-01-05T16:48:00+01:00",
+                    "moonrise": "2024-01-05T01:29:06+01:00",
+                    "moontransit": "2024-01-05T06:46:50+01:00",
+                    "moonset": "2024-01-05T11:51:04+01:00",
+                    "moonphase": 7,
+                    "moonzodiac": 7
+                }
+            },
+            {
+                "date": "2024-01-06",
+                "dateWithTimezone": "2024-01-05T23:00:00Z",
+                "freshSnow": 0.63,
+                "snowHeight": null,
+                "weather": {
+                    "state": 3,
+                    "text": "bedeckt",
+                    "icon": "d_3.svg"
+                },
+                "prec": {
+                    "sum": 0.44,
+                    "probability": 90,
+                    "sumAsRain": null,
+                    "class": 1
+                },
+                "sunHours": 0,
+                "rainHours": null,
+                "temperature": {
+                    "min": -2,
+                    "max": -1,
+                    "avg": null
+                },
+                "wind": {
+                    "unit": "km/h",
+                    "direction": "Nordostwind",
+                    "text": "NO",
+                    "avg": null,
+                    "min": 13,
+                    "max": 16,
+                    "gusts": {
+                        "value": 36,
+                        "text": null
+                    },
+                    "significationWind": false
+                },
+                "windchill": {
+                    "min": -7,
+                    "max": -5,
+                    "avg": null
+                },
+                "snowLine": {
+                    "avg": null,
+                    "min": null,
+                    "max": null,
+                    "unit": "m"
+                },
+                "astronomy": {
+                    "dawn": "2024-01-06T07:35:15+01:00",
+                    "sunrise": "2024-01-06T08:16:02+01:00",
+                    "suntransit": "2024-01-06T12:12:03+01:00",
+                    "sunset": "2024-01-06T16:08:22+01:00",
+                    "dusk": "2024-01-06T16:49:09+01:00",
+                    "moonrise": "2024-01-06T02:45:06+01:00",
+                    "moontransit": "2024-01-06T07:30:24+01:00",
+                    "moonset": "2024-01-06T12:03:23+01:00",
+                    "moonphase": 8,
+                    "moonzodiac": 8
+                }
+            },
+            {
+                "date": "2024-01-07",
+                "dateWithTimezone": "2024-01-06T23:00:00Z",
+                "freshSnow": 0.02,
+                "snowHeight": null,
+                "weather": {
+                    "state": 3,
+                    "text": "bedeckt",
+                    "icon": "d_3.svg"
+                },
+                "prec": {
+                    "sum": 0,
+                    "probability": 30,
+                    "sumAsRain": null,
+                    "class": 0
+                },
+                "sunHours": 1,
+                "rainHours": null,
+                "temperature": {
+                    "min": -3,
+                    "max": -2,
+                    "avg": null
+                },
+                "wind": {
+                    "unit": "km/h",
+                    "direction": "Nordostwind",
+                    "text": "NO",
+                    "avg": null,
+                    "min": 8,
+                    "max": 15,
+                    "gusts": {
+                        "value": 33,
+                        "text": null
+                    },
+                    "significationWind": false
+                },
+                "windchill": {
+                    "min": -8,
+                    "max": -5,
+                    "avg": null
+                },
+                "snowLine": {
+                    "avg": null,
+                    "min": null,
+                    "max": null,
+                    "unit": "m"
+                },
+                "astronomy": {
+                    "dawn": "2024-01-07T07:34:56+01:00",
+                    "sunrise": "2024-01-07T08:15:37+01:00",
+                    "suntransit": "2024-01-07T12:12:30+01:00",
+                    "sunset": "2024-01-07T16:09:40+01:00",
+                    "dusk": "2024-01-07T16:50:21+01:00",
+                    "moonrise": "2024-01-07T04:05:23+01:00",
+                    "moontransit": "2024-01-07T08:18:05+01:00",
+                    "moonset": "2024-01-07T12:20:06+01:00",
+                    "moonphase": 8,
+                    "moonzodiac": 8
+                }
+            },
+            {
+                "date": "2024-01-08",
+                "dateWithTimezone": "2024-01-07T23:00:00Z",
+                "freshSnow": 0,
+                "snowHeight": null,
+                "weather": {
+                    "state": 0,
+                    "text": "sonnig",
+                    "icon": "d_0.svg"
+                },
+                "prec": {
+                    "sum": 0,
+                    "probability": 5,
+                    "sumAsRain": null,
+                    "class": 0
+                },
+                "sunHours": 6,
+                "rainHours": null,
+                "temperature": {
+                    "min": -6,
+                    "max": -3,
+                    "avg": null
+                },
+                "wind": {
+                    "unit": "km/h",
+                    "direction": "Nordostwind",
+                    "text": "NO",
+                    "avg": null,
+                    "min": 6,
+                    "max": 14,
+                    "gusts": {
+                        "value": 34,
+                        "text": null
+                    },
+                    "significationWind": false
+                },
+                "windchill": {
+                    "min": -9,
+                    "max": -8,
+                    "avg": null
+                },
+                "snowLine": {
+                    "avg": null,
+                    "min": null,
+                    "max": null,
+                    "unit": "m"
+                },
+                "astronomy": {
+                    "dawn": "2024-01-08T07:34:34+01:00",
+                    "sunrise": "2024-01-08T08:15:08+01:00",
+                    "suntransit": "2024-01-08T12:12:55+01:00",
+                    "sunset": "2024-01-08T16:11:00+01:00",
+                    "dusk": "2024-01-08T16:51:35+01:00",
+                    "moonrise": "2024-01-08T05:28:56+01:00",
+                    "moontransit": "2024-01-08T09:10:54+01:00",
+                    "moonset": "2024-01-08T12:44:36+01:00",
+                    "moonphase": 8,
+                    "moonzodiac": 9
+                }
+            },
+            {
+                "date": "2024-01-09",
+                "dateWithTimezone": "2024-01-08T23:00:00Z",
+                "freshSnow": 0,
+                "snowHeight": null,
+                "weather": {
+                    "state": 2,
+                    "text": "wolkig",
+                    "icon": "d_2.svg"
+                },
+                "prec": {
+                    "sum": 0,
+                    "probability": 0,
+                    "sumAsRain": null,
+                    "class": 0
+                },
+                "sunHours": 3,
+                "rainHours": null,
+                "temperature": {
+                    "min": -7,
+                    "max": -2,
+                    "avg": null
+                },
+                "wind": {
+                    "unit": "km/h",
+                    "direction": "Westwind",
+                    "text": "W",
+                    "avg": null,
+                    "min": 11,
+                    "max": 11,
+                    "gusts": {
+                        "value": 20,
+                        "text": null
+                    },
+                    "significationWind": false
+                },
+                "windchill": {
+                    "min": -12,
+                    "max": -6,
+                    "avg": null
+                },
+                "snowLine": {
+                    "avg": null,
+                    "min": null,
+                    "max": null,
+                    "unit": "m"
+                },
+                "astronomy": {
+                    "dawn": "2024-01-09T07:34:09+01:00",
+                    "sunrise": "2024-01-09T08:14:36+01:00",
+                    "suntransit": "2024-01-09T12:13:20+01:00",
+                    "sunset": "2024-01-09T16:12:23+01:00",
+                    "dusk": "2024-01-09T16:52:51+01:00",
+                    "moonrise": "2024-01-09T06:51:02+01:00",
+                    "moontransit": "2024-01-09T10:09:04+01:00",
+                    "moonset": "2024-01-09T13:22:19+01:00",
+                    "moonphase": 8,
+                    "moonzodiac": 9
+                }
+            },
+            {
+                "date": "2024-01-10",
+                "dateWithTimezone": "2024-01-09T23:00:00Z",
+                "freshSnow": 0,
+                "snowHeight": null,
+                "weather": {
+                    "state": 2,
+                    "text": "wolkig",
+                    "icon": "d_2.svg"
+                },
+                "prec": {
+                    "sum": 0,
+                    "probability": 75,
+                    "sumAsRain": null,
+                    "class": 0
+                },
+                "sunHours": 3,
+                "rainHours": null,
+                "temperature": {
+                    "min": -5,
+                    "max": -1,
+                    "avg": null
+                },
+                "wind": {
+                    "unit": "km/h",
+                    "direction": "Nordwestwind",
+                    "text": "NW",
+                    "avg": null,
+                    "min": 9,
+                    "max": 11,
+                    "gusts": {
+                        "value": 22,
+                        "text": null
+                    },
+                    "significationWind": false
+                },
+                "windchill": {
+                    "min": -10,
+                    "max": -5,
+                    "avg": null
+                },
+                "snowLine": {
+                    "avg": null,
+                    "min": null,
+                    "max": null,
+                    "unit": "m"
+                },
+                "astronomy": {
+                    "dawn": "2024-01-10T07:33:41+01:00",
+                    "sunrise": "2024-01-10T08:14:01+01:00",
+                    "suntransit": "2024-01-10T12:13:45+01:00",
+                    "sunset": "2024-01-10T16:13:48+01:00",
+                    "dusk": "2024-01-10T16:54:09+01:00",
+                    "moonrise": "2024-01-10T08:02:54+01:00",
+                    "moontransit": "2024-01-10T11:11:25+01:00",
+                    "moonset": "2024-01-10T14:19:40+01:00",
+                    "moonphase": 8,
+                    "moonzodiac": 9
+                }
+            },
+            {
+                "date": "2024-01-11",
+                "dateWithTimezone": "2024-01-10T23:00:00Z",
+                "freshSnow": 0,
+                "snowHeight": null,
+                "weather": {
+                    "state": 2,
+                    "text": "wolkig",
+                    "icon": "d_2.svg"
+                },
+                "prec": {
+                    "sum": 0,
+                    "probability": 85,
+                    "sumAsRain": null,
+                    "class": 0
+                },
+                "sunHours": 3,
+                "rainHours": null,
+                "temperature": {
+                    "min": -2,
+                    "max": 1,
+                    "avg": null
+                },
+                "wind": {
+                    "unit": "km/h",
+                    "direction": "Südwestwind",
+                    "text": "SW",
+                    "avg": null,
+                    "min": 11,
+                    "max": 13,
+                    "gusts": {
+                        "value": 22,
+                        "text": null
+                    },
+                    "significationWind": false
+                },
+                "windchill": {
+                    "min": -6,
+                    "max": -2,
+                    "avg": null
+                },
+                "snowLine": {
+                    "avg": null,
+                    "min": null,
+                    "max": null,
+                    "unit": "m"
+                },
+                "astronomy": {
+                    "dawn": "2024-01-11T07:33:10+01:00",
+                    "sunrise": "2024-01-11T08:13:23+01:00",
+                    "suntransit": "2024-01-11T12:14:09+01:00",
+                    "sunset": "2024-01-11T16:15:16+01:00",
+                    "dusk": "2024-01-11T16:55:29+01:00",
+                    "moonrise": "2024-01-11T08:57:08+01:00",
+                    "moontransit": "2024-01-11T12:15:21+01:00",
+                    "moonset": "2024-01-11T15:38:23+01:00",
+                    "moonphase": 1,
+                    "moonzodiac": 10
+                }
+            },
+            {
+                "date": "2024-01-12",
+                "dateWithTimezone": "2024-01-11T23:00:00Z",
+                "freshSnow": 0,
+                "snowHeight": null,
+                "weather": {
+                    "state": 2,
+                    "text": "wolkig",
+                    "icon": "d_2.svg"
+                },
+                "prec": {
+                    "sum": 0,
+                    "probability": 0,
+                    "sumAsRain": null,
+                    "class": 0
+                },
+                "sunHours": 2,
+                "rainHours": null,
+                "temperature": {
+                    "min": -1,
+                    "max": 2,
+                    "avg": null
+                },
+                "wind": {
+                    "unit": "km/h",
+                    "direction": "Westwind",
+                    "text": "W",
+                    "avg": null,
+                    "min": 13,
+                    "max": 13,
+                    "gusts": {
+                        "value": 26,
+                        "text": null
+                    },
+                    "significationWind": false
+                },
+                "windchill": {
+                    "min": -5,
+                    "max": -2,
+                    "avg": null
+                },
+                "snowLine": {
+                    "avg": null,
+                    "min": null,
+                    "max": null,
+                    "unit": "m"
+                },
+                "astronomy": {
+                    "dawn": "2024-01-12T07:32:36+01:00",
+                    "sunrise": "2024-01-12T08:12:42+01:00",
+                    "suntransit": "2024-01-12T12:14:32+01:00",
+                    "sunset": "2024-01-12T16:16:45+01:00",
+                    "dusk": "2024-01-12T16:56:51+01:00",
+                    "moonrise": "2024-01-12T09:33:50+01:00",
+                    "moontransit": "2024-01-12T13:17:43+01:00",
+                    "moonset": "2024-01-12T17:11:13+01:00",
+                    "moonphase": 1,
+                    "moonzodiac": 10
+                }
+            },
+            {
+                "date": "2024-01-13",
+                "dateWithTimezone": "2024-01-12T23:00:00Z",
+                "freshSnow": 0,
+                "snowHeight": null,
+                "weather": {
+                    "state": 2,
+                    "text": "wolkig",
+                    "icon": "d_2.svg"
+                },
+                "prec": {
+                    "sum": 0,
+                    "probability": 90,
+                    "sumAsRain": null,
+                    "class": 0
+                },
+                "sunHours": 2,
+                "rainHours": null,
+                "temperature": {
+                    "min": 0,
+                    "max": 2,
+                    "avg": null
+                },
+                "wind": {
+                    "unit": "km/h",
+                    "direction": "Südwestwind",
+                    "text": "SW",
+                    "avg": null,
+                    "min": 13,
+                    "max": 13,
+                    "gusts": {
+                        "value": 26,
+                        "text": null
+                    },
+                    "significationWind": false
+                },
+                "windchill": {
+                    "min": -4,
+                    "max": -2,
+                    "avg": null
+                },
+                "snowLine": {
+                    "avg": null,
+                    "min": null,
+                    "max": null,
+                    "unit": "m"
+                },
+                "astronomy": {
+                    "dawn": "2024-01-13T07:32:00+01:00",
+                    "sunrise": "2024-01-13T08:11:57+01:00",
+                    "suntransit": "2024-01-13T12:14:55+01:00",
+                    "sunset": "2024-01-13T16:18:16+01:00",
+                    "dusk": "2024-01-13T16:58:14+01:00",
+                    "moonrise": "2024-01-13T09:58:17+01:00",
+                    "moontransit": "2024-01-13T14:16:22+01:00",
+                    "moonset": "2024-01-13T18:47:47+01:00",
+                    "moonphase": 2,
+                    "moonzodiac": 11
+                }
+            },
+            {
+                "date": "2024-01-14",
+                "dateWithTimezone": "2024-01-13T23:00:00Z",
+                "freshSnow": 0,
+                "snowHeight": null,
+                "weather": {
+                    "state": 3,
+                    "text": "bedeckt",
+                    "icon": "d_3.svg"
+                },
+                "prec": {
+                    "sum": 0,
+                    "probability": 0,
+                    "sumAsRain": null,
+                    "class": 0
+                },
+                "sunHours": 0,
+                "rainHours": null,
+                "temperature": {
+                    "min": -2,
+                    "max": 1,
+                    "avg": null
+                },
+                "wind": {
+                    "unit": "km/h",
+                    "direction": "Südostwind",
+                    "text": "SO",
+                    "avg": null,
+                    "min": 5,
+                    "max": 9,
+                    "gusts": {
+                        "value": null,
+                        "text": null
+                    },
+                    "significationWind": false
+                },
+                "windchill": {
+                    "min": -5,
+                    "max": -2,
+                    "avg": null
+                },
+                "snowLine": {
+                    "avg": null,
+                    "min": null,
+                    "max": null,
+                    "unit": "m"
+                },
+                "astronomy": {
+                    "dawn": "2024-01-14T07:31:20+01:00",
+                    "sunrise": "2024-01-14T08:11:09+01:00",
+                    "suntransit": "2024-01-14T12:15:17+01:00",
+                    "sunset": "2024-01-14T16:19:49+01:00",
+                    "dusk": "2024-01-14T16:59:39+01:00",
+                    "moonrise": "2024-01-14T10:15:31+01:00",
+                    "moontransit": "2024-01-14T15:10:42+01:00",
+                    "moonset": "2024-01-14T20:21:50+01:00",
+                    "moonphase": 2,
+                    "moonzodiac": 11
+                }
+            },
+            {
+                "date": "2024-01-15",
+                "dateWithTimezone": "2024-01-14T23:00:00Z",
+                "freshSnow": 0.22,
+                "snowHeight": null,
+                "weather": {
+                    "state": 3,
+                    "text": "bedeckt",
+                    "icon": "d_3.svg"
+                },
+                "prec": {
+                    "sum": 0.24,
+                    "probability": 20,
+                    "sumAsRain": null,
+                    "class": 1
+                },
+                "sunHours": 0,
+                "rainHours": null,
+                "temperature": {
+                    "min": -2,
+                    "max": 0,
+                    "avg": null
+                },
+                "wind": {
+                    "unit": "km/h",
+                    "direction": "Südwestwind",
+                    "text": "SW",
+                    "avg": null,
+                    "min": 6,
+                    "max": 11,
+                    "gusts": {
+                        "value": null,
+                        "text": null
+                    },
+                    "significationWind": false
+                },
+                "windchill": {
+                    "min": -5,
+                    "max": -3,
+                    "avg": null
+                },
+                "snowLine": {
+                    "avg": null,
+                    "min": null,
+                    "max": null,
+                    "unit": "m"
+                },
+                "astronomy": {
+                    "dawn": "2024-01-15T07:30:37+01:00",
+                    "sunrise": "2024-01-15T08:10:18+01:00",
+                    "suntransit": "2024-01-15T12:15:38+01:00",
+                    "sunset": "2024-01-15T16:21:24+01:00",
+                    "dusk": "2024-01-15T17:01:06+01:00",
+                    "moonrise": "2024-01-15T10:28:49+01:00",
+                    "moontransit": "2024-01-15T16:01:22+01:00",
+                    "moonset": "2024-01-15T21:51:46+01:00",
+                    "moonphase": 2,
+                    "moonzodiac": 12
+                }
+            },
+            {
+                "date": "2024-01-16",
+                "dateWithTimezone": "2024-01-15T23:00:00Z",
+                "freshSnow": 0.1,
+                "snowHeight": null,
+                "weather": {
+                    "state": 3,
+                    "text": "bedeckt",
+                    "icon": "d_3.svg"
+                },
+                "prec": {
+                    "sum": 0.26,
+                    "probability": 20,
+                    "sumAsRain": null,
+                    "class": 1
+                },
+                "sunHours": 0,
+                "rainHours": null,
+                "temperature": {
+                    "min": -4,
+                    "max": -2,
+                    "avg": null
+                },
+                "wind": {
+                    "unit": "km/h",
+                    "direction": "Nordwind",
+                    "text": "N",
+                    "avg": null,
+                    "min": 8,
+                    "max": 23,
+                    "gusts": {
+                        "value": null,
+                        "text": null
+                    },
+                    "significationWind": false
+                },
+                "windchill": {
+                    "min": -9,
+                    "max": -7,
+                    "avg": null
+                },
+                "snowLine": {
+                    "avg": null,
+                    "min": null,
+                    "max": null,
+                    "unit": "m"
+                },
+                "astronomy": {
+                    "dawn": "2024-01-16T07:29:51+01:00",
+                    "sunrise": "2024-01-16T08:09:24+01:00",
+                    "suntransit": "2024-01-16T12:15:59+01:00",
+                    "sunset": "2024-01-16T16:23:00+01:00",
+                    "dusk": "2024-01-16T17:02:34+01:00",
+                    "moonrise": "2024-01-16T10:40:18+01:00",
+                    "moontransit": "2024-01-16T16:49:43+01:00",
+                    "moonset": "2024-01-16T23:18:32+01:00",
+                    "moonphase": 2,
+                    "moonzodiac": 12
+                }
+            },
+            {
+                "date": "2024-01-17",
+                "dateWithTimezone": "2024-01-16T23:00:00Z",
+                "freshSnow": 0,
+                "snowHeight": null,
+                "weather": {
+                    "state": 0,
+                    "text": "sonnig",
+                    "icon": "d_0.svg"
+                },
+                "prec": {
+                    "sum": 0,
+                    "probability": 0,
+                    "sumAsRain": null,
+                    "class": 0
+                },
+                "sunHours": 8,
+                "rainHours": null,
+                "temperature": {
+                    "min": -6,
+                    "max": -3,
+                    "avg": null
+                },
+                "wind": {
+                    "unit": "km/h",
+                    "direction": "Ostwind",
+                    "text": "O",
+                    "avg": null,
+                    "min": 5,
+                    "max": 14,
+                    "gusts": {
+                        "value": null,
+                        "text": null
+                    },
+                    "significationWind": false
+                },
+                "windchill": {
+                    "min": -12,
+                    "max": -6,
+                    "avg": null
+                },
+                "snowLine": {
+                    "avg": null,
+                    "min": null,
+                    "max": null,
+                    "unit": "m"
+                },
+                "astronomy": {
+                    "dawn": "2024-01-17T07:29:03+01:00",
+                    "sunrise": "2024-01-17T08:08:27+01:00",
+                    "suntransit": "2024-01-17T12:16:20+01:00",
+                    "sunset": "2024-01-17T16:24:39+01:00",
+                    "dusk": "2024-01-17T17:04:04+01:00",
+                    "moonrise": "2024-01-17T10:51:25+01:00",
+                    "moontransit": "2024-01-17T17:37:13+01:00",
+                    "moonset": null,
+                    "moonphase": 2,
+                    "moonzodiac": 1
+                }
+            }
+        ],
+        "forecastDate": "2024-01-04T15:20:47Z",
+        "nextUpdate": "2024-01-04T17:30:00Z",
+        "source": "w3Data",
+        "point": "global",
+        "fingerprint": "Uv+BAwEBC0ZpbmdlcnByaW50Af+CAAEFAQdWZXJzaW9uAQwAAQtSZXF1ZXN0VGltZQH/hAABA0xuZwEIAAEDTGF0AQgAAQZNb2RlbHMB/4gAAAAQ/4MFAQEEVGltZQH/hAAAADb/hwIBASdbXXN0cnVjdCB7IE5hbWUgc3RyaW5nOyBSdW4gdGltZS5UaW1lIH0B/4gAAf+GAAAe/4UDAQL/hgABAgEETmFtZQEMAAEDUnVuAf+EAAAA/gF1/4IBCWRldi0yLjAuMQEPAQAAAA7dKMQUOPm8ngAAAfgZBFYOLdIqQAH43gIJih9DSkABCwEOZXhwb3NlZF9tb3NtaXgBDwEAAAAO3SgWMAAAAAAAAAABDmV4cG9zZWRfbW9zbWl4AQ8BAAAADt0nbXAAAAAAAAAAAQdpY29uX2V1AQ8BAAAADt0n7AAAAAAAAAAAAQdpY29uX2V1AQ8BAAAADt0nQ0AAAAAAAAAAAQtuYW1fY29udXNfNQEPAQAAAA7dJ+wAAAAAAAAAAAELbmFtX2NvbnVzXzUBDwEAAAAO3SdDQAAAAAAAAAABBm1vc21peAEPAQAAAA7dKBYwAAAAAAAAAAEGbW9zbWl4AQ8BAAAADt0nbXAAAAAAAAAAAQlnZnNfc2ZsdXgBDwEAAAAO3SfsAAAAAAAAAAABCWdmc19zZmx1eAEPAQAAAA7dJ0NAAAAAAAAAAAEGYXdlX2RlAQ8BAAAADt0oJEAAAAAAAAAAAA=="
+    }
+}
